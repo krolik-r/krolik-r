@@ -1,5 +1,17 @@
 ### Hi there 👋
+I'm Rafał, self-taught develeoper from Poland.
 
+💼 I'm currently learning:
+- Front-End Web Development(React) 
+- Python, selenium
+
+💻 Things that I'm currently working on:
+ + My portfolio website
+
+What i like to do:
+- learning
+- testing
+ 
 <!--
 **krolik-r/krolik-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
